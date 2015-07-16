@@ -4,6 +4,7 @@ dk:
   categories:
     investment_property: investeringsejendomme
     user_property: brugerejendomme
+    lot: grunde
     lease: leje
   copyright: ophavsrettigheder
   energy_rating: energimaerke
@@ -25,6 +26,8 @@ dk:
     store: butik
     warehouse: produktion-lager
     housing: boligudlejning
+    commercial_lot: erhvervsgrunde
+    residential_lot: boliggrunde
   prospect: prospekt
   province: landsdele
   receipt: kvittering
